@@ -1,0 +1,6 @@
+name: hassanmehedi1 Action
+description: This action greets persons
+
+runs:
+  using: node18
+  main: src/index.js
